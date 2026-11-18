@@ -1,0 +1,7 @@
+{
+  "research_focus": "机械产品的装配工艺与序列规划，关注装配优先约束、子装配划分、工具可达性与可行序列。",
+  "neural_network_focus": "神经网络架构、训练与推理，以及可用于约束优化和规划的方法。",
+  "review_model": "gpt-6.2-sol",
+  "review_reasoning_effort": "high",
+  "alert_to": ""
+}

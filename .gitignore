@@ -1,0 +1,10 @@
+/profile.json
+/.arxiv-watch/
+/dist/
+__pycache__/
+*.py[cod]
+*.dpapi
+*.sqlite3*
+*.pdf
+.env
+.env.*
